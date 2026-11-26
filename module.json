@@ -3,7 +3,7 @@
   "name": "accounting-debt-and-loans-api",
   "display_name": "Accounting Debt and Loans API",
   "description": "HTTP API for debt facilities and movements.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\DebtAndLoansApi\\DebtAndLoansApiServiceProvider",
   "requires": {
